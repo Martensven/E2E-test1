@@ -1,4 +1,4 @@
-describe('template spec', () => {
+describe('', () => {
   it('passes', () => {
     cy.visit('https://martensven.github.io/E2E-test1/')
     cy.reload()
